@@ -39,8 +39,10 @@ html {
 .img-destaque{
     text-align: center;
     margin-top: 10px;
+    margin-bottom: 50px;
+    object-fit: fill;
     width: auto;
-    height: 500px;
+    height: auto;
 }
 
 .biografia-container{
