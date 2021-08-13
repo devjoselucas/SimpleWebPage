@@ -41,6 +41,8 @@ html {
     margin-top: 30px;
     height: auto; 
     width: auto;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .biografia-container{
