@@ -39,7 +39,7 @@ html {
 .img-destaque{
     text-align: center;
     margin-top: 50px;
-    object-fit: scale-down;
+    object-fit: scale-down 50%;
     max-width: 100%;
     max-height: 100%;
     width: auto;
