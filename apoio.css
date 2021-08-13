@@ -39,8 +39,8 @@ html {
 .img-destaque{
     text-align: center;
     margin-top: 50px;
-    height: auto; 
-    width: auto;
+    max-height: fit-content; 
+    max-width: fit-content;
    
 }
 
