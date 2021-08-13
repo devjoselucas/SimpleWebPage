@@ -18,6 +18,7 @@ html {
     font-weight: bold;
 }
 
+
 /* Cabeçalho */
 
 .cabecalho{
@@ -30,4 +31,20 @@ html {
 
 .paragrafo-principal{
     font-style: italic;
+}
+
+
+/* Corpo do Site */
+
+.img-destaque{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.biografia-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+    
 }
