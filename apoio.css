@@ -14,3 +14,20 @@ html {
     
 }
 
+.destaque{
+    font-weight: bold;
+}
+
+/* Cabeçalho */
+
+.cabecalho{
+    text-align: center;
+}
+
+.Titulo-Principal{
+    font-size: 40px;
+}
+
+.paragrafo-principal{
+    font-style: italic;
+}
