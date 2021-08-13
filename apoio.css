@@ -42,8 +42,7 @@ html {
     margin-bottom: 50px;
     width: 300px;
     height: auto;
-    image-orientation: center;
-
+    align-items: center;
 }
 
 .biografia-container{
