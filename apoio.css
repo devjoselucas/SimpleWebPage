@@ -5,7 +5,7 @@ html {
 
 .container{
     max-width: 1200px;
-    background-color: #FFF;
+    background-color: rgba(255, 255, 255, 0.507);
     position: center;
     margin-left: auto;
     margin-right: auto;
@@ -38,7 +38,8 @@ html {
 
 .img-destaque{
     text-align: center;
-    margin-top: 50px;
+    margin: 50px;
+    
     
 }
 
